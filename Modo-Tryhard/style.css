@@ -1,0 +1,11 @@
+.cart{
+    height: 400px;
+    width: 40px;
+}
+
+.card{
+    height: 400px;
+    width: 400px;
+    margin: 3rem auto;
+    position: relative;
+}
